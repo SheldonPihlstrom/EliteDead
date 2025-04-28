@@ -22,8 +22,7 @@ Experience next-level dominance with our cutting-edge PUBG cheat tool. Featuring
 
 ## 📸 Screenshots
 
-screen             
-screen
+![pibg_000000](https://github.com/user-attachments/assets/d0ad4c8e-a205-403c-83a4-9711ddad96f7)
 
 
 ## ✨ Features
@@ -38,11 +37,8 @@ screen
 - ✅ **Windows 10 & 11 compatible**
 
 ### 📽️ Live Demonstration GIF
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="PUBG Cheat Demo GIF" width="600"/>
-</p>
 
-
+![pubg](https://github.com/user-attachments/assets/4ccec2d1-1496-45e1-b6fb-d0149ffd86bf)
 
 
 ---
